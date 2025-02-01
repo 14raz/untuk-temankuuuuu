@@ -1,0 +1,246 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(bc.jpg);
+    background-size: 100%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: darkblue;
+}
+
+h2 {
+    font-size: 70px;
+    margin-bottom: 25px;
+    color:darkblue;
+}
+
+.besti, .klik {
+    padding-top: 10%;
+}
+
+.besti a {
+    text-decoration: none;
+    background: white;
+    padding: 10px;
+    margin: 30px 30px;
+    border: 5px solid cornflowerblue ;
+    border-radius: 50px;
+    color:cornflowerblue;
+}
+
+.kesan, .dimas, .nia, .fita, .suci, .fani {
+    padding-top: 5%;
+}
+
+.kesan a {
+    text-decoraion: none;
+    background:cornflowerblue;
+    padding: 8px;
+    margin: 35px 35px;
+    border: 3px solid cornflowerblue;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.kesan p {
+    color: #333;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.dimas, .next {
+    padding-top: 3%;
+}
+
+h2 {
+    font-size: 70px;
+    margin-bottom: 25px;
+    color:darkblue;
+}
+
+.dimas p {
+    font-size: 30px;
+    color: #333;
+    font-style: initial;
+}
+
+.dimas a {
+    text-decoration: none;
+    background: white;
+    padding: 10px;
+    margin: 5px 5px;
+    border: 5px solid cornflowerblue;
+    border-radius: 40px;
+    color: cornflowerblue;
+    font-size: 20px;
+}
+
+.nia, .next {
+    padding-top: 1%;
+}
+
+h2 {
+    font-size: 70px;
+    margin-bottom: 25px;
+    color: darkblue;
+}
+
+.nia p{
+    font-size: 25px;
+    color: #333;
+    font-style:inherit;
+}
+
+.nia a {
+    text-decoration: none;
+    background: cornflowerblue;
+    padding: 5px;
+    margin: 5px 5px;
+    border: 5px solid cornflowerblue;
+    border-radius: 30px;
+    color: white;
+    font-size: 15px;
+    position: fixed;
+}
+
+.fita, .next {
+    padding-top: 1%;
+}
+
+h2 {
+    font-size: 70px;
+    margin-bottom: 25px;
+    color: darkblue;
+}
+
+.fita p {
+    font-size: 28px;
+    color: #333;
+    font-style:inherit;
+}
+
+.fita a {
+    text-decoration: none;
+    background: white;
+    padding: 5px;
+    margin: 10px 10px;
+    border: 5px solid cornflowerblue;
+    border-radius: 30px;
+    color: cornflowerblue;
+    font-size: 20px;
+}
+
+.suci, .next {
+    padding-top: 3%;
+}
+
+h2 {
+    font-size: 70px;
+    margin-bottom: 25px;
+    color: darkblue;
+}
+
+.suci p {
+    font-size: 25px;
+    color: #333;
+    font-style:inherit;
+}
+   
+.suci a {
+    text-decoration: none;
+    background: white;
+    padding: 5px;
+    margin: 10px 10px;
+    border: 5px solid cornflowerblue;
+    border-radius: 30px;
+    color: cornflowerblue;
+    font-size: 20px;
+}
+
+.fani, .next {
+    padding-top: 5%;
+}
+
+.fani p {
+    font-size: 30px;
+    color: #333;
+    font-style:inherit;
+}
+
+.fani a {
+    text-decoration: none;
+    background: white;
+    padding: 5px;
+    margin: 10px 10px;
+    border: 5px solid cornflowerblue;
+    border-radius: 30px;
+    color: cornflowerblue;
+    font-size: 20px;s
+}
+
+.pesan, .lanjut {
+    padding-top: 1%;
+}
+
+h2 {
+    font-size: 70px;
+    margin-bottom: 25px;
+    color:blue;
+}
+
+.pesan p {
+    font-size: 30px;
+    color: darkblue;
+    font-style:oblique;
+}
+
+.pesan a {
+    text-decoration: none;
+    background: white;
+    padding: 5px;
+    margin: 10px 10px;
+    border: 5px solid cornflowerblue;
+    border-radius: 30px;
+    color: cornflowerblue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.form, .klik {
+    padding-top: 8%;
+}
+
+h2 {
+    font-size: 65px;
+    margin-bottom: 15px;
+    color:darkblue;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 30px;
+    color:#333;
+}
+
+.form a {
+    text-decoration: none;
+    background: cornflowerblue;
+    padding: 8px;
+    margin: 15px 15px;
+    border: 5px solid cornflowerblue;
+    border-radius: 30px;
+    color: white;
+    font-size: 20px;
+}
+
